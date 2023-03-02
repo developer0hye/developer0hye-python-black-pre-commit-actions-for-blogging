@@ -1,1 +1,1 @@
-# developer0hye-python-black-pre-commit-actions-for-blogging
+# python-black-pre-commit-actions-for-blogging
